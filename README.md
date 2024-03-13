@@ -17,4 +17,5 @@
 •	用户可以在菜品界面对该菜品进行评论             
 •	用户可以查看自己的浏览历史             
 5.	思维导图
-![image](https://github.com/EasyChat-of-lcy-ft/EasyTake_Out/assets/138582134/167861f2-4936-4dcd-803f-bb18ff7e3ae6)
+![image](https://github.com/EasyChat-of-lcy-ft/EasyTake_Out/assets/138582134/33a4192b-5365-46aa-923f-b093ae1d8026)
+
