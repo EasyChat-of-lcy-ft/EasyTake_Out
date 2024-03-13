@@ -4,8 +4,8 @@
 2.	小组的 GitHub 地址：https://github.com/EasyChat-of-lcy-ft
 3.	组成员、分工及 GitHub 主页：
 姓名	学号	 GitHub	 分工
-李超泳	2112190105	https://github.com/Creshjk	服务端
-冯涛	2112190102	https://github.com/lesliehaha2	前端
+李超泳	2112190105	https://github.com/Creshjk	服务端前端
+冯涛	2112190102	https://github.com/lesliehaha2	无
 
 4.	程序功能描述
 •	管理员可以添加删除员工，可以在后台查看实时数据；
